@@ -1,5 +1,4 @@
-# DH_Bibilio
-Repository for the Introduction to Digital Humanities course
+
 # DH Bibliography
 
 Topic: Data and digital humanities
